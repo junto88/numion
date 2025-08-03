@@ -1,3 +1,19 @@
+# Code of Conduct
+
+All contributors to this project are expected to maintain a positive, respectful, and inclusive environment.
+
+- No discrimination, offensive language, or aggressive behavior.
+- Everyone is welcome regardless of background, culture, or experience.
+- Constructive criticism is encouraged; personal attacks are not.
+
+If you experience or witness violations, please report them to: antonio.mazzaro@email.it
+
+Thank you for making NUMION a healthy and innovative space.
+
+
+---
+
+
 # Codice di Condotta
 
 Tutti i partecipanti a questo progetto sono tenuti a rispettare un ambiente positivo, collaborativo e rispettoso.
