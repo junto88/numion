@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="logo_numion.png" alt="NUMION Logo" width="220"/>
+</p>
+
+
 # 🧠 NUMION – Collective Intelligence Powered by AI
 
 **Numion** is an open source platform designed to overcome the limitations of traditional collaboration and knowledge management tools. Seamlessly integrating with modern work environments, Numion builds a dynamic neural network that connects people, projects, skills, and ideas.
