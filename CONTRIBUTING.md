@@ -1,3 +1,26 @@
+# Contributing to NUMION
+
+Thank you for your interest in contributing to **Numion**!  
+Any suggestions, issues, or pull requests are welcome.
+
+## Guidelines
+- Write clean, well-commented code.
+- Follow the PEP8 convention (if using Python).
+- For new features, open an issue first to discuss them.
+- Pull requests should be clear and targeted.
+
+## Getting Started
+1. Fork this repository
+2. Clone your fork: `git clone https://github.com/your-username/numion.git`
+3. Install dependencies
+4. Work on a dedicated branch
+
+Thank you for helping NUMION grow!
+
+
+---
+
+
 # Contribuire a NUMION
 
 Grazie per il tuo interesse nel contribuire a **Numion**!  
