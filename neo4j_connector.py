@@ -12,9 +12,4 @@ class Neo4jConnection:
             result = session.run(query, parameters)
             return [record for record in result]
 
-# Inserisci qui le tue credenziali di Neo4j Aura
-conn = Neo4jConnection(
-    uri= "neo4j+s://b09177c2.databases.neo4j.io",
-    user="neo4j",
-    password="QfMljDUWmK73k5zPI0whDNtvj7BAo-A6lyUXc1sWlL8"
-)
+
