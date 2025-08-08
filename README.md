@@ -1,3 +1,4 @@
+ HEAD
 <p align="center">
   <img src="logo_numion.png" alt="NUMION Logo" width="220"/>
 </p>
@@ -94,3 +95,22 @@ Leggi anche il file [`CONTRIBUTING.md`](./CONTRIBUTING.md) per i dettagli.
 Questo progetto è distribuito sotto licenza **MIT**.
 
 Creato da **Antonio Mazzaro**
+
+
+## Quickstart
+
+```bash
+python -m venv numion-env
+source numion-env/bin/activate
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+
+# crea il file .env copiando dal template e inserisci la tua password Aura
+cp .env.example .env
+nano .env
+
+# avvia l'API
+uvicorn main:app --reload
+
+Apri: http://127.0.0.1:8000/docs
+ 523cbc1 (docs: add Quickstart and dotenv setup)

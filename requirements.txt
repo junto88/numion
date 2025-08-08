@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+spacy
+neo4j
+pydantic
+python-dotenv
